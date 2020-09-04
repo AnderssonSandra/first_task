@@ -11,3 +11,8 @@ Det praktiska genomförandet består av:
 
 ## Om kursen
 Kursen är en del av programmet webbutveckling som läses på Mittuniversitetet. Det läses i termin 3 på programmet. 
+
+## Klona projektet
+1. Gå in i terminalen i den mapp du vill klona projektet till
+2. Skriv : git clone https://github.com/AnderssonSandra/first_task.git
+3. Tryck enter
